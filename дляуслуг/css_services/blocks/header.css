@@ -1,0 +1,16 @@
+
+.header__left{
+  width: 262px;
+}
+.header__center{
+  width: 270px;
+}
+.header__right {
+  text-align: right;
+  width: 50%;
+}
+
+.header {
+ background-color: #202123;
+  margin-bottom: 100px;
+}
