@@ -54,6 +54,7 @@ p {
 .container {
   margin: 0 auto;
   width: 1140px;
+  padding: 0 20px;
 }
 .hero__container{
   display: flex;
